@@ -1,0 +1,12 @@
+venv
+.idea
+.wttd
+*.sqlite3
+*pyc
+__pycache__
+staticfiles
+Lib/
+Scripts/
+pip-selfcheck.json
+pyvenv.cfg
+.ipynb_checkpoints/
